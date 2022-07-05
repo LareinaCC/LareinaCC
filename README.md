@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LareinaCC
 - 👀 I’m interested in Movie\fitness\food……
-- 🌱 I’m currently learning Python
 - 📫 How to reach me: larerinaliu6@gmail.com
 
 <!---
